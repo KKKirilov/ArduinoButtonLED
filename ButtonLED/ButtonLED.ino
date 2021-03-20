@@ -1,5 +1,5 @@
 const int ledPin = 10;
-const int buttonPin = 9;
+const int buttonPin = 7;
 int buttonState = 0; 
 
 void setup() {
