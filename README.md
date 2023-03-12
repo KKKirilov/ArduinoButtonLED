@@ -1,7 +1,7 @@
 # ArduinoButtonLED
 ### Wiring
 
-![header image](https://github.com/KKKirilov/ArduinoButtonLED/blob/master/IMG_20200903_173809.jpg)
+![header image](https://github.com/KKKirilov/ArduinoButtonLED/blob/master/ImageWiring.jpg)
 
 ### Code
 
